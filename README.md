@@ -13,7 +13,7 @@
   - [Unorder-list](#unorder-list)
   - [Order-list](#order-list)
   - [Image](#image)
-  - [GIf](#GIF)
+  - [GIF](#GIF)
   - [Code-blocks](#code-blocks)
   - [Tables](#tables)
   - [Task-list](#task-list)
@@ -58,7 +58,7 @@ ___
 > this is hritik
 
 ## Link 
-[Code](https://github.com/hritik5102 "hritik")
+[Code](##Code-blocks "hritik")
 [Hritik Jaiswal](https://github.com/hritik5102 "hritik")
 
 ## Unorder-list

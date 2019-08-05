@@ -3,11 +3,7 @@
 
 - [Markdown language basic](#markdown-language-basic)
   - [Heading](#heading)
-- [Apple 1](#apple-1)
-  - [Apple 2](#apple-2)
-    - [Apple 3](#apple-3)
-      - [Apple 4](#apple-4)
-          - [Apple 5](#apple-5)
+
   - [Italic](#italic)
   - [Bold](#bold)
   - [Strike-through](#strike-through)

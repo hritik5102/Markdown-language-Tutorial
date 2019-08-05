@@ -1,18 +1,25 @@
 <!-- heading -->
 # Markdown language basic
 
-* [Heading](#heading)
-* [Italic](#Italic)
-* [Bold](#Bold)
-* [Strike through](#Strike-through)
-* [Horizontal rule](#Horizontal-rule)
-* [Blockquote](#Blockquote)
-* [Unorder list](#Unorder-list)
-* [Order list](#Order-list)
-* [Image](#Image)
-* [Code-blocks](#Code-blocks)
-* [Table](#Tables)
-* [Task-list](#Task-list)
+- [Markdown language basic](#markdown-language-basic)
+  - [Heading](#heading)
+- [Apple 1](#apple-1)
+  - [Apple 2](#apple-2)
+    - [Apple 3](#apple-3)
+      - [Apple 4](#apple-4)
+          - [Apple 5](#apple-5)
+  - [Italic](#italic)
+  - [Bold](#bold)
+  - [Strike-through](#strike-through)
+  - [Horizontal-rule](#horizontal-rule)
+  - [Blockquote](#blockquote)
+  - [Link](#link)
+  - [Unorder-list](#unorder-list)
+  - [Order-list](#order-list)
+  - [Image](#image)
+  - [Code-blocks](#code-blocks)
+  - [Tables](#tables)
+  - [Task-list](#task-list)
 
 
 
@@ -20,56 +27,44 @@
 ## Heading
 
 # Apple 1
-## Apple 12
-### Apple 1
-#### Apple 1
-###### Apple 1
-####### Apple 1
+## Apple 2
+### Apple 3
+#### Apple 4
+###### Apple 5
 
-
-<!-- italic -->
-### --------- Italic form ---------
+## Italic
 
 *This text* is italic
 
 _This text is italic_
 
-### --------- Bold ---------
+## Bold
 
 **This text** is italic
 
 __This text__ is italic
 
-<!-- strike through -->
-### --------- Strike through ---------
 
+## Strike-through
 
 ~~this is strikerthrough~~
 
-<!-- Horizontal rule -->
-### --------- Horizontal rule ---------
+## Horizontal-rule 
 
 ---
 ___
 
 ----
 
-### --------- Blockquote ---------
+## Blockquote
 
-<!-- blockquote -->
 > this is hritik
 
-<!-- link -->
-### ------------- link --------------
-
-[Hritik Jaiswal](https://github.com/hritik5102)
-
-### --------- link with hover ---------
-
+## Link 
+[Code](https://github.com/hritik5102 "hritik")
 [Hritik Jaiswal](https://github.com/hritik5102 "hritik")
 
-<!-- item and nested item -->
-### --------- unorderd list with nested list ---------
+## Unorder-list
 
 * item 1
 * item 2
@@ -78,48 +73,41 @@ ___
   * nested item 2
   
 <!-- number  -->
-### --------- ordered list ---------
+## Order-list
 
 1. item 1
 2. item 2
 3. item 3
 4. item 4
 
-<!-- inline code block -->
-
-### --------- Image with hover ---------
+## Image
 
 <!-- image -->
 ![markdown logo](Hr.jpg "Hritik")
 
 <!-- code block -->
-
-### --------- Html markup ---------
+## Code-blocks
 
 `<p>Broo U are awesome</p>`
-
-### --------- javascript code ---------
 
 ```javascript
 
 let num = Math.random();
 ```
 
-### --------- Html code ---------
-
 ```html
 <h4>im Hritik</h4>
 
 ```
 
-### --------- Tables ---------
+## Tables
 
 | Name    | Email       |
 |---------| ----------  |
 | Hritik  | hritik@gmail.com|
 | Aniket  | aniket@gmail.com|
 
-### --------- Task list ---------
+## Task-list
 
 
 * [x] task 1

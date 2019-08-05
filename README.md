@@ -13,6 +13,7 @@
   - [Unorder-list](#unorder-list)
   - [Order-list](#order-list)
   - [Image](#image)
+  - [GIf](#GIF)
   - [Code-blocks](#code-blocks)
   - [Tables](#tables)
   - [Task-list](#task-list)
@@ -79,8 +80,12 @@ ___
 ## Image
 
 <!-- image -->
-![markdown logo](Hr.jpg "Hritik")
+![markdown logo](pexels9.jpeg "books")
 
+
+## GIF
+
+![](iron.jfif "Iron Man")
 <!-- code block -->
 ## Code-blocks
 

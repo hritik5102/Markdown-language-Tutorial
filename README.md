@@ -11,7 +11,7 @@
   - [Order-list](#order-list)
   - [Image](#image)
   - [GIF](#GIF)
-  - [Code-blocks](#code-blocks)
+  - [Code](#Code)
   - [Tables](#tables)
   - [Task-list](#task-list)
 
@@ -25,6 +25,9 @@
 #### Apple 4
 ###### Apple 5
 ```
+
+[(Back to Top)](#Markdown language basic)
+
 
 ## Emphasis
 
@@ -41,12 +44,16 @@ ___bold italic___
 ~~strikethrough~~
 ```
 
+[(Back to Top)](#Markdown language basic)
+
 ## Horizontal-rule 
 
 ```
 ----
 **** 
 ```
+
+[(Back to Top)](#Markdown language basic)
 
 ## Blockquote
 
@@ -63,6 +70,8 @@ ___bold italic___
 > > Nested
 > > Blockquote
 ```
+[(Back to Top)](#Markdown language basic)
+
 
 ## Code 
 
@@ -79,6 +88,8 @@ Syntax :
 
 <img width="600px" src="https://user-images.githubusercontent.com/44053202/134762743-427ac06d-28e5-4a69-b403-63832c99314f.png"/> 
 
+[(Back to Top)](#Markdown language basic)
+
 
 ## Link 
 
@@ -87,6 +98,8 @@ Syntax :
 ```
 [Hritik Jaiswal](https://linktr.ee/hritikdj "hritik")<br/>
 ```
+[(Back to Top)](#Markdown language basic)
+
 
 
 ## Unorder-list
@@ -104,6 +117,7 @@ Syntax :
   * nested item 1
   * nested item 2
 ```
+[(Back to Top)](#Markdown language basic)
 
 <!-- number  -->
 ## Order-list
@@ -119,6 +133,8 @@ Syntax :
 3. item 3
 4. item 4
 ```
+[(Back to Top)](#Markdown language basic)
+
 
 ## Image
 
@@ -128,6 +144,8 @@ Syntax :
 ```
 ![markdown logo](pexels9.jpeg "books")
 ```
+[(Back to Top)](#Markdown language basic)
+
 
 ## GIF
 
@@ -136,6 +154,7 @@ Syntax :
 ```
 ![](giphy.gif "Iron Man")
 ```
+[(Back to Top)](#Markdown language basic)
 
 ## Tables
 
@@ -150,6 +169,7 @@ Syntax :
 | John  | John@gmail.com|
 | Sophia  | Sophia@gmail.com|
 ```
+[(Back to Top)](#Markdown language basic)
 
 ## Task-list
 
@@ -161,3 +181,17 @@ Syntax :
 * [x] task 1
 * [ ] task 2 
 ```
+[(Back to Top)](#Markdown language basic)
+
+
+```bash
+ _____ _                 _     __   __            
+|_   _| |               | |    \ \ / /            
+  | | | |__   __ _ _ __ | | __  \ V /___  _   _   
+  | | | '_ \ / _` | '_ \| |/ /   \ // _ \| | | |  
+  | | | | | | (_| | | | |   <    | | (_) | |_| |  
+  \_/ |_| |_|\__,_|_| |_|_|\_\   \_/\___/ \__,_| 
+```
+</p>
+[(Back to Top)](#Markdown language basic)
+

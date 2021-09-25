@@ -1,7 +1,8 @@
 <!-- heading -->
 # Markdown language basic
 
-- [Markdown language basic](#markdown-language-basic)
+# Table of Contents
+- [Table of Contents](#table-of-contents)
   - [Heading](#heading)
   - [Emphasis](#Emphasis)
   - [Horizontal-rule](#horizontal-rule)
@@ -26,7 +27,7 @@
 ###### Apple 5
 ```
 
-[(Back to Top)](#Markdown language basic)
+[(Back to Top)](#table-of-contents)
 
 
 ## Emphasis
@@ -44,7 +45,7 @@ ___bold italic___
 ~~strikethrough~~
 ```
 
-[(Back to Top)](#Markdown language basic)
+[(Back to Top)](#table-of-contents)
 
 ## Horizontal-rule 
 
@@ -53,7 +54,7 @@ ___bold italic___
 **** 
 ```
 
-[(Back to Top)](#Markdown language basic)
+[(Back to Top)](#table-of-contents)
 
 ## Blockquote
 
@@ -70,7 +71,7 @@ ___bold italic___
 > > Nested
 > > Blockquote
 ```
-[(Back to Top)](#Markdown language basic)
+[(Back to Top)](#table-of-contents)
 
 
 ## Code 
@@ -88,7 +89,7 @@ Syntax :
 
 <img width="600px" src="https://user-images.githubusercontent.com/44053202/134762743-427ac06d-28e5-4a69-b403-63832c99314f.png"/> 
 
-[(Back to Top)](#Markdown language basic)
+[(Back to Top)](#table-of-contents)
 
 
 ## Link 
@@ -98,7 +99,7 @@ Syntax :
 ```
 [Hritik Jaiswal](https://linktr.ee/hritikdj "hritik")<br/>
 ```
-[(Back to Top)](#Markdown language basic)
+[(Back to Top)](#table-of-contents)
 
 
 
@@ -117,7 +118,7 @@ Syntax :
   * nested item 1
   * nested item 2
 ```
-[(Back to Top)](#Markdown language basic)
+[(Back to Top)](#table-of-contents)
 
 <!-- number  -->
 ## Order-list
@@ -133,7 +134,7 @@ Syntax :
 3. item 3
 4. item 4
 ```
-[(Back to Top)](#Markdown language basic)
+[(Back to Top)](#table-of-contents)
 
 
 ## Image
@@ -144,7 +145,7 @@ Syntax :
 ```
 ![markdown logo](pexels9.jpeg "books")
 ```
-[(Back to Top)](#Markdown language basic)
+[(Back to Top)](#table-of-contents)
 
 
 ## GIF
@@ -154,7 +155,7 @@ Syntax :
 ```
 ![](giphy.gif "Iron Man")
 ```
-[(Back to Top)](#Markdown language basic)
+[(Back to Top)](#table-of-contents)
 
 ## Tables
 
@@ -169,7 +170,7 @@ Syntax :
 | John  | John@gmail.com|
 | Sophia  | Sophia@gmail.com|
 ```
-[(Back to Top)](#Markdown language basic)
+[(Back to Top)](#table-of-contents)
 
 ## Task-list
 
@@ -181,8 +182,6 @@ Syntax :
 * [x] task 1
 * [ ] task 2 
 ```
-[(Back to Top)](#Markdown language basic)
-
 
 ```bash
  _____ _                 _     __   __            
@@ -193,5 +192,6 @@ Syntax :
   \_/ |_| |_|\__,_|_| |_|_|\_\   \_/\___/ \__,_| 
 ```
 </p>
-[(Back to Top)](#Markdown language basic)
+
+[(Back to Top)](#table-of-contents)
 
